@@ -60,7 +60,7 @@
             Controls.Add(button2);
             Controls.Add(button1);
             Name = "Form3";
-            Text = "Form3";
+            Text = "ไ";
             ResumeLayout(false);
         }
 
